@@ -1,2 +1,2 @@
 # nohot
-cp
+//helloworld
